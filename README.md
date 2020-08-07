@@ -1,0 +1,2 @@
+# daily
+a cool world
